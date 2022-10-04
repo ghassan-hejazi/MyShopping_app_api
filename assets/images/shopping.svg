@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138.71" height="108.49" viewBox="0 0 138.71 108.49">
+  <g id="Page-1" transform="translate(188.155 -121.355)">
+    <g id="shop" transform="translate(-186.795 122.715)">
+      <g id="Group_36247" data-name="Group 36247">
+        <rect id="Rectangle" width="135.99" height="105.77" rx="13.6" fill="#FD6969" stroke="#2D2E49" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.72"/>
+        <path id="Path" d="M0,15.11v7.555H135.99V15.11A15.11,15.11,0,0,0,120.88,0H15.11A15.11,15.11,0,0,0,0,15.11Z" fill="#2D2E49" stroke="#2D2E49" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.72"/>
+      </g>
+      <line id="Path-2" data-name="Path" x2="22.665" transform="translate(15.11 11.333)" fill="none" stroke="#fd6969" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.019"/>
+      <path id="Path-3" data-name="Path" d="M56.824,55.87H3.516A3.022,3.022,0,0,1,.494,52.349L6.651,15.376l.385-2.312a3.023,3.023,0,0,1,3.022-2.524H50.281A3.023,3.023,0,0,1,53.3,13.063l6.543,39.286a3.022,3.022,0,0,1-3.022,3.521Z" transform="translate(37.825 32.901)" fill="#2D2E49" stroke="#2D2E49" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.72"/>
+      <path id="Path-4" data-name="Path" d="M17.68,23.8V11.332A11.332,11.332,0,0,1,29.012,0h0A11.332,11.332,0,0,1,40.345,11.332V23.8" transform="translate(39.738 31.731)" fill="none" stroke="#2D2E49" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.72" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

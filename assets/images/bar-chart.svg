@@ -1,0 +1,5 @@
+<svg id="bar-chart" xmlns="http://www.w3.org/2000/svg" width="17" height="16" viewBox="0 0 17 16">
+  <g id="bar-chart-2" data-name="bar-chart" transform="translate(11 -4) rotate(90)">
+    <path id="Union_6" data-name="Union 6" d="M2,16V9A1,1,0,0,0,0,9v7a1,1,0,0,0,2,0Zm7,0V1A1,1,0,1,0,7,1V16a1,1,0,1,0,2,0Zm7,0V5a1,1,0,1,0-2,0V16a1,1,0,1,0,2,0Z" transform="translate(20 11) rotate(180)" fill="#484848"/>
+  </g>
+</svg>
